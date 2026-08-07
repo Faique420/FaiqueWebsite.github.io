@@ -4,8 +4,8 @@ A clean, responsive static portfolio inspired by the supplied split-screen refer
 
 ## Files
 - `index.html` — complete website
-- `assets/faique-hero.png` — hero portrait artwork
-- `assets/profile-original.jpg` — original supplied profile photo
+- `assets/Faique-HeroOne.png` — hero portrait artwork
+- `assets/Faique-HeroTwo.jpg` — second optional profile photo (can be changed).
 
 ## Deploy
 Upload the contents of this folder to GitHub Pages, GoDaddy hosting, Netlify, Vercel, or another static host.
