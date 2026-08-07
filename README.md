@@ -1,6 +1,7 @@
-# Muhammad Faique — SQA Portfolio
+# Muhammad Faique — My Portfolio Website
 
 A clean, responsive static portfolio inspired by the supplied split-screen reference.
+to have great opportunities for jobs in SQA or QA tester jobs.
 
 ## Files
 - `index.html` — complete website
