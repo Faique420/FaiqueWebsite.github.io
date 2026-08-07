@@ -9,6 +9,6 @@ to have great opportunities for jobs in SQA or QA tester jobs.
 - `assets/Faique-HeroTwo.jpg` — second optional profile photo (can be changed).
 
 ## Deploy
-Upload the contents of this folder to GitHub Pages, GoDaddy hosting, Netlify, Vercel, or another static host.
+Upload the contents of this folder to GitHub Pages as a static host.
 
-The site uses no build step and no framework.
+(The site uses no build step and no framework).
