@@ -30,7 +30,7 @@ a {
 
 .hero {
   position: relative;
-  min-height: 112svh;
+  min-height: 115svh;
   overflow: hidden;
   background: var(--paper);
 }
