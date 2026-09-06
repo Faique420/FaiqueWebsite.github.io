@@ -1,23 +1,17 @@
-# Muhammad Faique Portfolio - GitHub Pages Package
+# My Portfolio Website — Muhammad Faique
 
-This folder is ready for direct GitHub Pages hosting.
+A clean, responsive static portfolio inspired by the supplied split-screen reference.
+to have great opportunities for jobs in SQA or QA tester jobs.
 
 ## Files
-
-- `index.html` - website entry page
+- `index.html` — complete website
 - `style.css` - complete responsive styling
-- `assets/muhammad-faique-hero.png` - hero portrait
 - `assets/Muhammad-Faique-Resume.pdf` - downloadable resume
 - `assets/favicon.svg` - browser tab icon
+- `assets/Faique-HeroOne.png` — hero portrait artwork
+- `assets/Faique-HeroTwo.jpg` — second optional profile photo (can be changed).
 
-## Publish on GitHub Pages
+## Deploy
+Contents have been uploaded of this folder to GitHub Pages as a static host.
 
-1. Upload `index.html`, `style.css`, and the complete `assets` folder to the top level of your GitHub repository.
-2. Open the repository's **Settings**, then **Pages**.
-3. Under **Build and deployment**, choose **Deploy from a branch**.
-4. Select the branch containing these files and choose `/(root)` as the folder.
-5. Save and wait for GitHub Pages to provide the website address.
-
-Keep the filenames and folder structure unchanged so the portrait, resume, favicon, and stylesheet continue to load.
-
-Official guide: https://docs.github.com/pages/getting-started-with-github-pages/creating-a-github-pages-site
+(The site uses no build step and no framework).
